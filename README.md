@@ -1,3 +1,3 @@
-# vanilla-JS-Update
+# Vanilla-JS-Update
 
-new project yaho!
+New project yaho!
